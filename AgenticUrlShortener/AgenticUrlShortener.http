@@ -1,0 +1,6 @@
+@AgenticUrlShortener_HostAddress = http://localhost:5100
+
+GET {{AgenticUrlShortener_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
